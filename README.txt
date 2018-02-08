@@ -1,3 +1,4 @@
+#Test file
 echo "# test" >> README.mdi
 git init
 git add README.md
